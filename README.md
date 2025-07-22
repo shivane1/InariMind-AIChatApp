@@ -37,11 +37,6 @@ Diagrams included:
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add your screenshots here to show the UI or chat interaction flow._
-
----
 
 ## 📦 Installation
 
